@@ -16,9 +16,9 @@ This repo is only used to save translation works.
 
 本Repo仅用于存储翻译工作的成果。
 
-For terms and conditions, see the LICENSE file.
+For terms and conditions, see the LICENSE.md file.
 
-使用条款等问题，请查看LICENSE文件。
+使用条款等问题，请查看LICENSE.md文件。
 
 For copyright violation reports, please send email to memoryhonest@protonmail.com. We would give higher priority for tickets raised by e-mail. You can also raise questions in our Telegram group.
 
