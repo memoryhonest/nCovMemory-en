@@ -2,7 +2,7 @@
 
 We are a **Voluntary and Non-profit** translation group. Our name is "诚记翻译组“, or "Chengji Translation Group.
 
-我们是一个自发组成、自愿协作的非营利性翻译组。我们的名字是“诚记翻译组”。
+我们是一个**自发组成**、**自愿协作**的**非营利性**翻译组。我们的名字是“诚记翻译组”。
 
 This is a translation work based on [nCovMemory](https://github.com/2019ncovmemory/nCovMemory). 
 
