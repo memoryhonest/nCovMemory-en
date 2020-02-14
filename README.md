@@ -23,7 +23,7 @@ We selectively include news reports from reputable and reliable news agencies an
 
 See [here](https://github.com/2019ncovmemory/nCovMemory/issues/86) if you want to join our translation team.
 
-## Friend Links
+## Related Links
 
 * [nCoVMemory](https://github.com/2019ncovmemory/nCoVMemory)
 
