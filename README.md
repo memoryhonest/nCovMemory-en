@@ -4,21 +4,15 @@ This is a repository dedicated to the English translations of the relevant news 
 
 Sources of our translation works can be found here: [nCovMemory](https://github.com/2019ncovmemory/nCovMemory). 
 
-## IP Issues & Disclaimer 
-
-Without absolute consent from our team, our translated articles shall not be reposted elsewhere. To any other party who shares or adapts our translated scripts in a way that may cause conflicts or legal consequences in the future, we may reserve the right to require deletions.
-
-For terms and conditions, see the [LICENSE](/LICENSE.md) file.
-
-## Introduction
-
-We are a group of concerned volunteers  from all over the world that have spontaneously gathered together to translate reports in Chinese media on the Novel Coronavirus Pneumonia outbreak. By translating first-hand reports from inside the affected areas in China, we aim to offer a panoramic view of the epidemic to the global community.
-
-## [Browse our archives here](/list.md)
+## [👉Browse our archives here👈](/list.md)
 
 ## Inclusion Criteria
 
 We selectively include news reports from reputable and reliable news agencies and WeChat official accounts that are characterized by their careful research, nuanced presentation, or novel perspectives, especially the descriptive reports coming from the frontline and the grassroots (including all areas, populations, and industries, not limited only to the most publicized ones). In the selected articles, the authors are not the narrators or the interviewees themselves.
+
+## Introduction
+
+We are a group of concerned volunteers  from all over the world that have spontaneously gathered together to translate reports in Chinese media on the Novel Coronavirus Pneumonia outbreak. By translating first-hand reports from inside the affected areas in China, we aim to offer a panoramic view of the epidemic to the global community.
 
 ## Contributing
 
@@ -27,6 +21,12 @@ See [here](https://github.com/2019ncovmemory/nCovMemory/issues/86) if you want t
 ## Related Links
 
 * [nCoVMemory](https://github.com/2019ncovmemory/nCoVMemory)
+
+## IP Issues & Disclaimer 
+
+Without absolute consent from our team, our translated articles shall not be reposted elsewhere. To any other party who shares or adapts our translated scripts in a way that may cause conflicts or legal consequences in the future, we may reserve the right to require deletions.
+
+For terms and conditions, see the [LICENSE](/LICENSE.md) file.
 
 ## Contact us
 
