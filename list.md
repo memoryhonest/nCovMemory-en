@@ -1,6 +1,6 @@
 # Article List
 
-Note: Sorted by publication date on Chinese media.
+Note: Sorted by publication date in Chinese media.
 
 | Date | Publication | Title | Translation | Original |
 |------|-------|-------|-------------|----------|
