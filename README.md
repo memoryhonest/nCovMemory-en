@@ -1,6 +1,7 @@
 # 2020 Memories of the COVID-19 outbreak in China: News reports
 
 This is a repository dedicated to the English translations of the relevant news reports  on the 2019-nCoV outbreak and the resulting epidemic of the Novel Coronavirus Pneumonia (NCP) in China. Note that 2019-nCoV is also known as SARS-CoV-2, and NCP as COVID-19.
+
 Sources of our translation works can be found here: [nCovMemory](https://github.com/2019ncovmemory/nCovMemory). 
 
 ## IP Issues & Disclaimer 
