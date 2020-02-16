@@ -1,7 +1,8 @@
-Li Wenliang: An ordinary person
-===============================
+# Li Wenliang: An ordinary person
 
 Originally published in *Portrait* magazine on Feb 07, 2020
+
+<p align="center"><img src="imgs/liwenliang_an_ordinary_person/image1.png" /></p>
 
 *He once made a New Year's wish. In the new year, he hoped to be a
 simple person, to appreciate the complexity of the world without having
@@ -11,11 +12,13 @@ he hoped we could all encourage each other to realize our values. His
 WeChat signature was, \"All theory is gray, but the tree of life springs
 evergreen.\"*
 
-Text \| Luo Ting, Yang Zhou, Luo Qian
+Text \| Luo Ting （罗婷）, Yang Zhou（杨宙）, Luo Qian（罗芊）
 
-Edit \| Tang Qi
+Edit \| Tang Qi （糖槭）
 
-1
+Translation \|   Chengji Translation Team
+
+## 1
 
 At 11 p.m. last night, when *Portrait* reporters rushed to the inpatient
 building of the Central Hospital of Wuhan (CHW), Houhu Branch, two of
@@ -34,6 +37,10 @@ who was with Li's father at that time. They then called Li's pregnant
 wife, who was not in Wuhan, to find her anxious and concerned, yet
 having no access to the latest updates. They told her, "If there is any
 news, I will definitely call you as soon as possible."
+
+<p align="center"><img src="imgs/liwenliang_an_ordinary_person/image2.png" /></p>
+
+<p align="right">The main building of the Central Hospital of Wuhan.</a>
 
 The time was just after midnight, and the efforts to rescue Li continued
 on. But still, one of the nurses in the building, thinly clad, went down
@@ -91,7 +98,11 @@ had already tweeted(later deleted): "We are deeply saddened by the
 passing of Dr Li Wenliang. We all need to applaud the work that he did
 on fighting \#2019nCOV."
 
-2
+<p align="center"><img src="imgs/liwenliang_an_ordinary_person/image3.png" /></p>
+
+<p align="right">Dr. Li Wenliang</p>
+
+## 2
 
 Li Wenliang's college classmates told *Portrait* that, on the afternoon
 of December 30, 2019, it was in their WeChat class group that Li
@@ -152,7 +163,11 @@ life is to treat the ill as family, to nurture their health, to take
 people's welfare as the foremost concern, and to treat our staff with
 genuine sincerity.
 
-3
+<p align="center"><img src="imgs/liwenliang_an_ordinary_person/image4.png" /></p>
+
+<p align="right">Li Wenliang’s profile picture on Renren.com</p>
+
+## 3
 
 Dr. Li Wenliang's Weibo documented his spirited yet ordinary daily life.
 
@@ -228,6 +243,10 @@ he hoped that we could all encourage each other to realize our values.
 His WeChat signature was, \"All theory is gray, but the tree of life
 springs evergreen.\"
 
+<p align="center"><img src="imgs/liwenliang_an_ordinary_person/image5.png" /></p>
+
+<p align="right">The cover image of Li Wenliang’s WeChat Moments.</p>
+
 But at the same time, he also cared about social issues. He spoke up for
 the Wang Qinglei, who led the critical reporting on the Wenzhou
 high-speed train crash accident, and appealed to the public to collect
@@ -254,3 +273,12 @@ replied, "To the frontline right away. The epidemic is still spreading,
 and I don't want to be a deserter."
 
 (As required by the interviewee, Wu Yan was used as a pseudonym.)
+
+<p align="center"><img src="imgs/liwenliang_an_ordinary_person/image6.png" /></p>
+
+    Dear friends, 
+    you may never hear from me henceforth
+    for I’m leaving to save the planet earth
+    -- Li Wenliang’s Weibo, December 21, 2012
+
+<p align="right">From WeChat Official Account ZaZheng</p>

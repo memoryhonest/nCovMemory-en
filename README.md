@@ -21,6 +21,9 @@ See [here](https://github.com/2019ncovmemory/nCovMemory/issues/86) if you want t
 ## Related Links
 
 * [nCoVMemory](https://github.com/2019ncovmemory/nCoVMemory)
+* [Voices in China](https://medium.com/voices-in-china): Articles that depict how the coronavirus has changed life of people in China
+* [Wuhan2020](https://github.com/wuhan2020/wuhan2020/blob/master/README_EN.md)
+* [Humans in Wuhan](https://humansofwuhan.com): The everyday stories happening in Wuhan and other regions affected by the Coronavirus outbreak
 
 ## IP Issues & Disclaimer 
 
