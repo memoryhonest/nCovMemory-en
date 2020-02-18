@@ -1,6 +1,6 @@
 # 300 Million Chickens Facing Feed Shortage in Hubei
 
-Originally published in *Sanlian Life Weekly*, Jan. 31st, 2020
+Originally published in *Sanlian Lifeweek*, Jan. 31st, 2020
 
 Affected by the lockdown of cities, more than 300 million chickens in
 Hubei province are about to run out of feed, according to Hubei Poultry

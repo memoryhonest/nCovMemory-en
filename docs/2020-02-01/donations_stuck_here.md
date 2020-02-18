@@ -1,6 +1,6 @@
 # On site \| Hubei and Wuhan Red Cross Society, Donations Stuck Here?
 
-Translated from *Life Week*, February 1st
+Translated from *Sanlian Lifeweek*, February 1st
 
 The flow of donations from home and abroad to Wuhan is endless. However,
 the major hospitals are still dangerously running out of supplies. Red

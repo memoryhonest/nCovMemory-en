@@ -1,6 +1,6 @@
 # Verbal Account from Wuhan Frontline Emergency Doctor: May Spring Comes Soon
 
-Originally published in *Sanlian Lifeweek magazine* on Jan. 27th, 2020
+Originally published in *Sanlian Lifeweek* on Jan. 27th, 2020
 
 *In March 2019, Sun Peng, Deputy Director of the Emergency Department of
 Wuhan Union Hospital, was appointed to take charge of the Emergency
