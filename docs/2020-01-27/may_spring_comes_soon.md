@@ -17,6 +17,8 @@ Verbal Statement \| Sun Peng
 
 Reporter \| Bo Jing
 
+Translation \| Chengji Translation Team
+
 ## One of the Most Exhausting New Year\'s Eves
 
 Ten days ago I packed up some clothes from home before moving into the

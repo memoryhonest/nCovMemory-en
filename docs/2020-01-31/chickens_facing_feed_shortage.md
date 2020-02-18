@@ -24,6 +24,8 @@ SARS-CoV-2 outbreak situation, thus to reduce economic losses.**
 
 Reporter \| Yang Lu, Li Xiaojie
 
+Translation \| Chengji Translation Team
+
 <p align="center"><img src="./imgs/image6.png" /></p>
 
 <p align="center">"New Year Visits Do Harm to Others, Dinner Parties Are to Court Death"</p>

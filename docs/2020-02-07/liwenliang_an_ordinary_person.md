@@ -16,7 +16,7 @@ Text \| Luo Ting （罗婷）, Yang Zhou（杨宙）, Luo Qian（罗芊）
 
 Edit \| Tang Qi （糖槭）
 
-Translation \|   Chengji Translation Team
+Translation \| Chengji Translation Team
 
 ## 1
 

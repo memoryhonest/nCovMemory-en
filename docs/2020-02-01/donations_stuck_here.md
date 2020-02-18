@@ -32,6 +32,8 @@ Journalists \| Zhang, Congzhi; Wang, Shan
 
 Original Author \| Zhang, Congzhi
 
+Translation \| Chengji Translation Team
+
 <p align="center"><img src="imgs/image5.png" /></p>
 
 <p align="right">On the site of Wuhan Red Cross Warehouse (by Cai Xiaochuan)</p>
