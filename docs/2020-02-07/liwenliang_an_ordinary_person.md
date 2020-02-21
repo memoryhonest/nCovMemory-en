@@ -1,6 +1,6 @@
 # Li Wenliang: An ordinary person
 
-Originally published in *Portrait* magazine on Feb 07, 2020
+Originally published in *Portrait(人物)* magazine on Feb 07, 2020
 
 <p align="center"><img src="imgs/liwenliang_an_ordinary_person/image1.png" /></p>
 
@@ -12,9 +12,9 @@ he hoped we could all encourage each other to realize our values. His
 WeChat signature was, \"All theory is gray, but the tree of life springs
 evergreen.\"*
 
-Text \| Luo Ting （罗婷）, Yang Zhou（杨宙）, Luo Qian（罗芊）
+Text \| Luo, Ting (罗婷); Yang, Zhou (杨宙); Luo, Qian (罗芊)
 
-Edit \| Tang Qi （糖槭）
+Edit \| Tang, Qi (糖槭)
 
 Translation \| Chengji Translation Team
 

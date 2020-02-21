@@ -1,6 +1,6 @@
 # Police call-outs to the field for thousands of weird reasons, all concerning Coronavirus (COVID-19)
 
-Originally published in *Portrait*, Feb. 10th, 2020
+Originally published in *Portrait(人物)*, Feb. 10th, 2020
 
 <p align="center"><img src="./imgs/image1.png" /></p>
 
@@ -43,9 +43,9 @@ Originally published in *Portrait*, Feb. 10th, 2020
 > Here is a narrative by Yang Pu, noted down by *Pang Xie,* edited by
 > *Tang Qi*
 
-Reporter \| Pang Xie
+Reporter \| Pang, Xie (庞谢)
 
-Editor \| Tang Qi
+Editor \| Tang, Qi (糖槭)
 
 Translation \| Chengji Translation Team
 

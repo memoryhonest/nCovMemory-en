@@ -1,6 +1,6 @@
 # 300 Million Chickens Facing Feed Shortage in Hubei
 
-Originally published in *Sanlian Lifeweek*, Jan. 31st, 2020
+Originally published in *Sanlian Lifeweek(三联生活周刊)* on Jan. 31th, 2020
 
 Affected by the lockdown of cities, more than 300 million chickens in
 Hubei province are about to run out of feed, according to Hubei Poultry
@@ -16,13 +16,13 @@ SARS-CoV-2 (formerly known as 2019 novel coronavirus, 2019-nCoV) sweep
 across the Internet, attention shall also be paid to the winding roads
 in the farm fields, and this is a part of ensuring a functioning social
 system. **The most intuitive connection is that, such winding roads
-influence the stability and order of \"shopping basket program\"
+are critical to the stability and order of \"shopping basket program\"
 (non-staple food supply project). Only when the non-staple food is
 produced, transported, and supplied, can the functioning of the
 grassroots society be maintained to the greatest extent in the current
 SARS-CoV-2 outbreak situation, thus to reduce economic losses.**
 
-Reporter \| Yang Lu, Li Xiaojie
+Reporter \| Yang, Lu (杨璐); Li, Xiaojie (李晓洁)
 
 Translation \| Chengji Translation Team
 
@@ -71,7 +71,7 @@ shops and breakfast stalls are all closed. \"
 
 <p align="center"><img src="./imgs/image7.png" /></p>
 
-**Rational road-blocking can cut off the spread of the novel
+**Rational road-blocking can cut off the spread of 
 SARS-CoV-2, but roads at some places have been rudely dug up, which
 have hindered agricultural production.** Zhou Ping said, \"Under
 normal circumstances, in order to celebrate the Spring Festival,
@@ -111,7 +111,7 @@ shortage of feed supply and sales may give rise to a new epidemic
 outbreak, and only with a guaranteed feed supply and logistics system
 shall such outbreak be prevented. We should not make things worse.**
 
-## SARS-CoV-2us prevention in rural areas
+## SARS-CoV-2 prevention in rural areas
 
 As the SARS-CoV-2 spreads, such road-blocking measures have been
 scaled up beyond Hubei Province. Funan is the most populous county in
@@ -144,7 +144,7 @@ tried to take a shortcut crossing another village to a hospital for
 pregnancy checkup. However, road blocking is indeed urgently needed.
 **Compared with SARS, the threat to rural areas posed by this outbreak
 is much more serious. Large-scale SARS outbreak occurred after the
-Spring Festival, and the virus spreaded between cities. But this time,
+Spring Festival, and the virus spread between cities. But this time,
 it was during the Spring Festival travel rush, the most frequent
 period of urban-rural flow throughout the year.**
 
@@ -261,7 +261,7 @@ Anhui Province specializes in the distribution of raw materials for a
 fast food chain. His last order before the Spring Festival was to
 deliver raw materials to Beijing on January 19, and then he drove back
 to his hometown in Anhui to celebrate the Lunar New Year. As the novel
-SARS-CoV-2 pneumonia spreaded throughout the country, Driver Yuan
+coronavirus pneumonia spread throughout the country, Driver Yuan
 said, **\"Our village was locked down on the second day of the lunar
 new year, no one is allowed to enter the village, neither are the
 villagers allowed to go out.** I don't usually live in the village,

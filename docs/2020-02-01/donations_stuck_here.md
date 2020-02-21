@@ -1,6 +1,6 @@
 # On site \| Hubei and Wuhan Red Cross Society, Donations Stuck Here?
 
-Translated from *Sanlian Lifeweek*, February 1st
+Originally published in *Sanlian Lifeweek(三联生活周刊)* on Feb. 1st, 2020
 
 The flow of donations from home and abroad to Wuhan is endless. However,
 the major hospitals are still dangerously running out of supplies. Red
@@ -28,9 +28,9 @@ Does a global health emergency have to be coordinated by the Red Cross
 Society? Isn\'t there a more efficient way to replace the Red Cross
 Society which is struggling with serious problems of low efficiency?
 
-Journalists \| Zhang, Congzhi; Wang, Shan
+Journalists \| Zhang, Congzhi (张从志); Wang, Shan (王珊)
 
-Original Author \| Zhang, Congzhi
+Original Author \| Zhang, Congzhi (张从志)
 
 Translation \| Chengji Translation Team
 

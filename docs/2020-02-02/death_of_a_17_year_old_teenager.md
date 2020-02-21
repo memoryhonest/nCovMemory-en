@@ -1,6 +1,6 @@
 # Death of a 17-year-old teenager with cerebral palsy after his father was quarantined for six days
 
-Originally published in *Sanlian Lifeweek*, Feb. 2nd, 2020
+Originally published in *Sanlian Lifeweek(三联生活周刊)* on Feb. 2st, 2020
 
 Many people had tried to save his life when they realized Yan Cheng, a
 17-year-old teenager with cerebral palsy was left alone at home, but the
@@ -8,7 +8,7 @@ aids failed to reach the last mile. The daily plight of this special
 family with cerebral palsy, autism, and single father is magnified by
 the outbreak of the epidemic in the rural areas.
 
-Journalists \| Dong, Jining and Chen, Lu
+Journalists \| Dong, Jining (董冀宁); Chen, Lu(陈璐)
 
 Translation \| Chengji Translation Team
 

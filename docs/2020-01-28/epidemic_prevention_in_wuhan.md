@@ -1,6 +1,6 @@
 # Epidemic Prevention in Wuhan: How to Make Good Use of Available Resources?
 
-Originally published in *Sanlian Lifeweek*, Jan 28th, 2020.
+Originally published in *Sanlian Lifeweek(三联生活周刊)* on Jan. 28th, 2020
 
 By Jan 28th, according to the National Health Commission, nearly 6,000
 medical staff have been dispatched to Hubei province to support the
@@ -17,7 +17,7 @@ hospitals and to enlarge the area for medical treatment. But it is even
 more important to ensure a good allocation of available resources and a
 prompt response.
 
-Journalists \| Wang Haiyan and Wan Shan
+Journalists \| Wang, Haiyan (王海燕); Wan, Shan (王珊)
 
 Translation \| Chengji Translation Team
 
