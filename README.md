@@ -14,6 +14,8 @@ We selectively include news reports from reputable and reliable news agencies an
 
 We are a group of concerned volunteers  from all over the world that have spontaneously gathered together to translate reports in Chinese media on the Novel Coronavirus Pneumonia outbreak. By translating first-hand reports from inside the affected areas in China, we aim to offer a panoramic view of the epidemic to the global community.
 
+[More info about us.](/ABOUT.md)
+
 ## Contributing
 
 See [here](https://github.com/2019ncovmemory/nCovMemory/issues/86) if you want to join our translation team.
