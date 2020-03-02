@@ -8,6 +8,8 @@ Chief Editor \| Dong, Xiangyi (董湘依)
 
 Online Editor \| Zhong, Yi (中一)
 
+Translation \| Chengji Translation Team
+
 A media article called "Preliminary discovery that Shuanghuanglian Oral
 Liquid, a traditional Chinese medicine, could inhibit the novel
 coronavirus", distributed by The Shanghai Institute of Materia Medica,
@@ -101,7 +103,7 @@ composed of three herbs -honeysuckle, baicalein, and forsythia, which
 can only regulate the inner balance of bodies but has no specific effect
 on SARS-CoV-2.
 
-<p align="center"><img src="./imgs/image1.jpg" /></p>
+<p align="center"><img src="imgs/image1.jpg" /></p>
 
 SIMM also told the media that they only did a preliminary experiment. It
 still requires a great number of experiments to verify if
@@ -151,7 +153,7 @@ selling health care products, and was officially founded in 1997 by Lu
 Songtao, the chairman of Green Valley Pharmaceutical. One of their main
 health care products was suspicious of fake advertisements.
 
-<p align="center"><img src="./imgs/image2.jpg" /></p>
+<p align="center"><img src="imgs/image2.jpg" /></p>
 
 In January 2008, a news story revealing the secret \"Green Valley\" scam
 was broadcast on CCTV (China Central Television). It said Green Valley

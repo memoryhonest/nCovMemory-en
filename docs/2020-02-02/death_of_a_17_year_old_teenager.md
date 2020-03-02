@@ -48,7 +48,7 @@ could not accept the fact that her second son was again found to be
 \"abnormal\" at the age of 1. It was Yan Xiaowen who raised the children
 all the time.
 
-<p align="center"><img src="./imgs/image1.jpg" /></p>
+<p align="center"><img src="imgs/image1.jpg" /></p>
 
 <p align="right">Yan Cheng (in the wheelchair) and his younger brother Xiaowei</p>
 
@@ -91,7 +91,7 @@ was not so good, Yan Xiaowen had to share a ward with another suspected
 patient. The younger son, who was not yet infected, also slept in the
 same room with them.
 
-<p align="center"><img src="./imgs/image3.png" /></p>
+<p align="center"><img src="imgs/image3.png" /></p>
 
 <p align="right">Yan Xiaowen and his younger son in quarantine</p>
 
@@ -125,7 +125,7 @@ professional ambulance, and medical staff in white coats and light blue
 protective masks carrying Yan Cheng, who lied on the stretcher and could
 not move freely, onto the ambulance.
 
-<p align="center"><img src="./imgs/image5.png" /></p>
+<p align="center"><img src="imgs/image5.png" /></p>
 
 <p align="right">Around 11:30, an ambulance from Hua He Hospital was sent to take Yan
 Cheng to the central monitoring point. At about 12:30, the medical staff
@@ -166,7 +166,7 @@ contacted the village, asking them to give Yan Cheng a meal every day.
 The village secretary also claimed that he got the phone call from the
 county disabled association.
 
-<p align="center"><img src="./imgs/image4.png" /></p>
+<p align="center"><img src="imgs/image4.png" /></p>
 
 <p align="right">On the morning of Jan 24<sup>th</sup>, the village council and the village
 doctors went to Yan Cheng's home to feed him and monitor his body
@@ -226,7 +226,7 @@ doctors to his home and fed him two glasses of amino acids; On the
 morning of Jan 29^th^, the newly arrived nursing staff fed Yan Cheng two
 cups of amino acids ..."**
 
-<p align="center"><img src="./imgs/image2.png" />
+<p align="center"><img src="imgs/image2.png" />
 
 <p align="right">On the evening of Jan 28<sup>th</sup>, the village principle brought village
 doctors to check Yan Cheng's body temperature.</p>
@@ -314,7 +314,7 @@ of both children. "Yan Cheng was just a kid who smiled a lot. As long as
 you talk to him, he would smile at you, and screamed 'Mom' whoever he
 sees.**
 
-<p align="center"><img src="./imgs/image6.png" /></p>
+<p align="center"><img src="imgs/image6.png" /></p>
 
 <p align="right">Yan Cheng</p>
 

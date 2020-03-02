@@ -2,7 +2,7 @@
 
 Originally published in *Portrait(人物)*, Feb. 10th, 2020
 
-<p align="center"><img src="./imgs/image1.png" /></p>
+<p align="center"><img src="imgs/image1.png" /></p>
 
 > Yang Pu (alias) is a police officer in Hubei Province. He works in a
 > county city with a population of one million about 50 kilometers from

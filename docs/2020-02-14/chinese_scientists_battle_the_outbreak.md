@@ -2,7 +2,7 @@
 
 Originally published in *Southern Weekly(南方周末)* on Feb. 14th, 2020
 
-<p align="center"><img src="./imgs/image2.png" /></p>
+<p align="center"><img src="imgs/image2.png" /></p>
 
 <p align="right">(Data as of Feb. 5th is collected by Reporter Zhou Xiaoling and Intern Ye Zi from Southern Weekly)</p>
 
@@ -104,7 +104,7 @@ Medical Virology*, *CNKI*, *Social Science Research Network (SSRN)*,
 Infections*, *Journal of Virology*, *Journal of Infection*, *SCIENCE
 CHINA Life Sciences*, and *Radiology*.
 
-<p align="center"><img src="./imgs/image4.png" /></p>
+<p align="center"><img src="imgs/image4.png" /></p>
 
 <p align="right">(Data as of Feb. 5th is collected by Reporter Zhou Xiaoling and Intern Ye Zi from Southern Weekly)</p>
 
@@ -213,7 +213,7 @@ Chinese Academy of Sciences, Fudan University, the University of Hong
 Kong and the Capital Medical University. They respectively published 11,
 8, 9 and 3 articles.
 
-<p align="center"><img src="./imgs/image3.png" /></p>
+<p align="center"><img src="imgs/image3.png" /></p>
 
 <p align="right">(Data as of Feb. 5th is collected by Reporter Zhou Xiaoling and Intern Ye Zi from Southern Weekly)</p>
 
@@ -266,7 +266,7 @@ which is the most popular topic, 20 in viral analysis, 9 in clinical
 data analysis, and 6 in pharmaceutical research and development. There
 are 5 non-research articles of expert comments and news.
 
-<p align="center"><img src="./imgs/image1.png" /></p>
+<p align="center"><img src="imgs/image1.png" /></p>
 
 <p align="right">(Data as of Feb. 5th is collected by Reporter Zhou Xiaoling and Intern Ye Zi from Southern Weekly)</p>
 

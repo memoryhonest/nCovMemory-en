@@ -34,7 +34,7 @@ Original Author \| Zhang, Congzhi (张从志)
 
 Translation \| Chengji Translation Team
 
-<p align="center"><img src="imgs/image5.png" /></p>
+<p align="center"><img src="imgs/donations_stuck_here/image5.png" /></p>
 
 <p align="right">On the site of Wuhan Red Cross Warehouse (by Cai Xiaochuan)</p>
 
@@ -50,7 +50,7 @@ already started to use home-use shoe covers instead of medical shoe
 covers. We even saw a short nurse at the fever clinic of Wuhan No. 7
 Hospital wrapping her shoes with the long pants of the protective suits.
 
-<p align="center"><img src="imgs/image10.png" /></p>
+<p align="center"><img src="imgs/donations_stuck_here/image10.png" /></p>
 
 \"The goods are desperately in short supply. We hardly had any masks in
 stock in the past few days. There were only 50 left. We transported a
@@ -103,7 +103,7 @@ district government. The government delivered supplies every 4 or 5
 days, which would be used up instantly. The second batch of supplies
 that they applied for has not arrived yet.
 
-<p align="center"><img src="imgs/image2.jpg" /></p>
+<p align="center"><img src="imgs/donations_stuck_here/image2.jpg" /></p>
 
 **A manager of a hospital in Wuhan told us that there were two reasons
 why they did not have enough supplies. First, generally speaking, the
@@ -135,7 +135,7 @@ over to help Wuhan in a group of 6 or 7 people. The hospital gave all of
 the stocked materials to them, \"It\'s only the fourth or the fifth day
 since we came here, but the materials have already bottomed out.\"
 
-<p align="center"><img src="imgs/image1.png" /></p>
+<p align="center"><img src="imgs/donations_stuck_here/image1.png" /></p>
 
 ## Is it necessary to designate the Red Cross Society to receive supplies?
 
@@ -143,7 +143,7 @@ A piece of news saying \"All kinds of supplies are there. Hospitals with
 Letters of Introduction can fetch them from the Red Cross Warehouse\"
 spread out on the Internet on Jan 30th.
 
-<p align="center"><img src="imgs/image3.png" /></p>
+<p align="center"><img src="imgs/donations_stuck_here/image3.png" /></p>
 
 At around 9 p.m, our reporters arrived at the rumored Red Cross
 Warehouse. The warehouse was located in the Building A of Wuhan
@@ -154,7 +154,7 @@ individuals and companies all over the country, and even from abroad had
 been coming endlessly, and were then delivered from there to more than
 40 hospitals in Wuhan.
 
-<p align="center"><img src="imgs/image7.png" /></p>
+<p align="center"><img src="imgs/donations_stuck_here/image7.png" /></p>
 
 <p align="right">On the site of Wuhan Red Cross Warehouse (by Cai Xiaochuan)</p>
 
@@ -183,7 +183,7 @@ avoid those official donating platforms such as the Red Cross Society.
 Obviously, both donors and hospitals were unsatisfactory with the
 efficiency of the coordination and the allocation of supplies.**
 
-<p align="center"><img src="imgs/image4.png" /></p>
+<p align="center"><img src="imgs/donations_stuck_here/image4.png" /></p>
 
 In an interview, Chen Yun, the vice executive president of Wuhan Red
 Cross Society, revealed that they had quite a limited number of working
@@ -207,7 +207,7 @@ Wuhan Union Hospital, which was really on the frontline against the
 disease, received only 3,000 surgical masks, and was even not in the
 official list of supplies allocation.
 
-<p align="center"><img src="imgs/image9.png" /></p>
+<p align="center"><img src="imgs/donations_stuck_here/image9.png" /></p>
 
 ## Visiting the warehouse of the Red Cross Society on site
 
@@ -221,7 +221,7 @@ Hospital via the Red Cross Society\", and the information of the donors.
 There were not many people transporting those materials. Two or three
 postal trucks were loading and unloading cargoes.
 
-<p align="center"><img src="imgs/image6.png" /></p>
+<p align="center"><img src="imgs/donations_stuck_here/image6.png" /></p>
 
 <p align="right">On the site of Wuhan Red Cross Warehouse (by Cai Xiaochuan)</p>
 
@@ -346,7 +346,7 @@ on it. The doctor and the staff went around a corner several times and
 then finally found the alcohol. Looking for the masks was similarly a
 tough task.
 
-<p align="center"><img src="imgs/image8.png" /></p>
+<p align="center"><img src="imgs/donations_stuck_here/image8.png" /></p>
 
 <p align="right">On the site of Wuhan Red Cross Warehouse (by Cai Xiaochuan)</p>
 

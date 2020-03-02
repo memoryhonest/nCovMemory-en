@@ -44,7 +44,7 @@ back home. **Xu Cai\'s parents-in-law needed 2 hours to finish the
 distance of 2 kilometers because they already had some slight breathing
 difficulties.**
 
-<p align="center"><img src="./imgs/epidemic_prevention_in_wuhan/image5.png" /></p>
+<p align="center"><img src="imgs/epidemic_prevention_in_wuhan/image5.png" /></p>
 
 On the afternoon of Jan. 25th, Xu Cai\'s husband started to have a
 fever. Following the graded treatment policy, Xu Cai called her
@@ -76,7 +76,7 @@ community center again and again. But the only feedback the community
 could give was that they already reported, but had no idea when a
 response would come.
 
-<p align="center"><img src="./imgs/epidemic_prevention_in_wuhan/image6.png" /></p>
+<p align="center"><img src="imgs/epidemic_prevention_in_wuhan/image6.png" /></p>
 
 <p align="right">Photo by Yuan Zheng.</p>
 
@@ -116,7 +116,7 @@ that it became a designated hospital for the COVID-19. More patients
 immediately swarmed in, forming a long line outside the gate, which was
 hundreds of meters long and was difficult for the hospital to digest.
 
-<p align="center"><img src="./imgs/epidemic_prevention_in_wuhan/image3.png" /></p>
+<p align="center"><img src="imgs/epidemic_prevention_in_wuhan/image3.png" /></p>
 
 **Jinyintan Hospital, which is currently the end hospital of the
 procedure, requires concrete diagnosis and transfer procedures for
@@ -176,7 +176,7 @@ needed to stay in the hospital for treatments, which made the lack of
 personnel even worse. **When we interviewed them, one of Li Tong\'s
 colleagues had been working continuously for 18 hours.**
 
-<p align="center"><img src="./imgs/epidemic_prevention_in_wuhan/image1.png" /></p>
+<p align="center"><img src="imgs/epidemic_prevention_in_wuhan/image1.png" /></p>
 
 Wu Hong is the manager of a \'third level A\' hospital in Wuhan. He said
 that after the lockdown of the city, the government did not make any
@@ -218,7 +218,7 @@ or sells masks, thermometers, and antiviral drugs, in order to ensure
 the quality and the supplies of drugs and medical devices which are
 needed for containing the outbreak.\"
 
-<p align="center"><img src="./imgs/epidemic_prevention_in_wuhan/image7.png" /></p>
+<p align="center"><img src="imgs/epidemic_prevention_in_wuhan/image7.png" /></p>
 
 Xiantao City, which is only 100 kilometers from Wuhan, is a nationwide
 known production base for disposable cloth masks. Wang Ming, the manager
@@ -282,7 +282,7 @@ However, her father was always very calm. Till Jan 23rd when Wuhan went
 into the lockdown, he still reminded Gao Lanlan \'not to create or
 spread rumors\' when Gao discussed the outbreak with her friends.
 
-<p align="center"><img src="./imgs/epidemic_prevention_in_wuhan/image2.png" /></p>
+<p align="center"><img src="imgs/epidemic_prevention_in_wuhan/image2.png" /></p>
 
 The abrupt change of his mood occurred on the morning of Jan 24th, when
 the husband of Gao Lanlan\'s friends was quarantined and Gao was
@@ -315,7 +315,7 @@ then that the fever clinic was always open there. Except for ambulances
 running in and out, the whole hospital looked quite empty. There were
 only 3 patients in front of her father.
 
-<p align="center"><img src="./imgs/epidemic_prevention_in_wuhan/image4.png" /></p>
+<p align="center"><img src="imgs/epidemic_prevention_in_wuhan/image4.png" /></p>
 
 <p align="right">Photo by Yuan Zheng.</p>
 
@@ -352,7 +352,7 @@ basic and the most important step in the graded treatment policy for
 COVID, can only actually do a limited amount of work, apart from waiting
 for the patients and reporting them to higher-order hospitals.**
 
-<p align="center"><img src="./imgs/epidemic_prevention_in_wuhan/image8.png" /></p>
+<p align="center"><img src="imgs/epidemic_prevention_in_wuhan/image8.png" /></p>
 
 As to now, public transportation in Wuhan has been basically suspended.
 Wu Hong estimates that with these measures, the increase of infected

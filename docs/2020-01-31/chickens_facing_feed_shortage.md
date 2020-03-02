@@ -26,7 +26,7 @@ Reporter \| Yang, Lu (杨璐); Li, Xiaojie (李晓洁)
 
 Translation \| Chengji Translation Team
 
-<p align="center"><img src="./imgs/image6.png" /></p>
+<p align="center"><img src="imgs/image6.png" /></p>
 
 <p align="center">"New Year Visits Do Harm to Others, Dinner Parties Are to Court Death"</p>
 
@@ -41,7 +41,7 @@ for reporting to the government the situation that, **as roads in
 rural areas were blocked, their chickens were about to starve to death
 if the feed still cannot be delivered into this region.**
 
-<p align="center"><img src="./imgs/image3.png" /></p>
+<p align="center"><img src="imgs/image3.png" /></p>
 
 <p align="center">Upper banner: "Dropping by is Mutual Killing, Going to Parties is
 Suicide"</p>
@@ -69,7 +69,7 @@ are banned, people can only go out on foot or by bike. The city is
 completely inaccessible, there is no one walking out in the town, and
 shops and breakfast stalls are all closed. \"
 
-<p align="center"><img src="./imgs/image7.png" /></p>
+<p align="center"><img src="imgs/image7.png" /></p>
 
 **Rational road-blocking can cut off the spread of 
 SARS-CoV-2, but roads at some places have been rudely dug up, which
@@ -103,7 +103,7 @@ this season. If the road-blocking continues to the end of February and
 early March, the impact on crayfish farming will be very significant.
 \"
 
-<p align="center"><img src="./imgs/image2.png" /></p>
+<p align="center"><img src="imgs/image2.png" /></p>
 
 **The SARS-CoV-2 outbreak will soon pose challenges to the economic
 situation. Large scale culling of live pigs, poultry and etc. due to
@@ -132,7 +132,7 @@ prior to entering. If a villager with a high temperature is found, the
 staff at the checkpoint will directly inform the town\'s medical staff
 to come and do a further inspection.
 
-<p align="center"><img src="./imgs/image8.png" /></p>
+<p align="center"><img src="imgs/image8.png" /></p>
 
 <p align="center">"Entry of Non Locals Prohibited"</p>
 
@@ -158,7 +158,7 @@ of cases in rural areas, among middle-aged and elderly people, and in
 migrant workers and workers from business/service sector, announced by
 the Anhui Provincial CDC at a press conference on January 25.
 
-<p align="center"><img src="./imgs/image9.png" /></p>
+<p align="center"><img src="imgs/image9.png" /></p>
 
 **Compared with cities, rural epidemic prevention systems are
 fragile.** As of the end of 2018, there were still 46 townships across
@@ -186,7 +186,7 @@ movable fence? People with living experiences in rural areas may
 understand that, there is plenty of free soil in the rural areas, and
 blocking road with soil is a typical use of local materials.
 
-<p align="center"><img src="./imgs/image10.png" /></p>
+<p align="center"><img src="imgs/image10.png" /></p>
 
 Cheng Cunwang is a PhD from the School of Agricultural Economics and
 Rural Development, Renmin University of China. He is both a researcher
@@ -235,7 +235,7 @@ eggs would have already started on the third or fourth day of the
 lunar new year. But this year, villages were suddenly locked down, and
 no chicken farmers of his acquaintance have sold any eggs . \"
 
-<p align="center"><img src="./imgs/image4.png" /></p>
+<p align="center"><img src="imgs/image4.png" /></p>
 
 **Old customers in Hunan do not accept eggs from Hubei Xiantao, and
 sales within Hubei province are also hampered.** Li Qiang said, \"the
@@ -271,7 +271,7 @@ many places, and you cannot get down from the expressway once you
 drive up on it. I have already cancelled orders to Beijing, Wuhan and
 Guangzhou. \"
 
-<p align="center"><img src="./imgs/image1.png" /></p>
+<p align="center"><img src="imgs/image1.png" /></p>
 
 **An urgent report by the Hubei Province Pig Industry Association to
 the General Office of Agriculture and Rural Affairs Department of

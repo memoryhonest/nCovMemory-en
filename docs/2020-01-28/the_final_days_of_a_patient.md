@@ -8,6 +8,8 @@ Editor \| Huang, Fang (黄芳)
 
 Proofreader \| Yu, Chengjun (余承君)
 
+Translation \| Chengji Translation Team
+
 Weng Qiuqiu didn't know what was killing her, even when she died.
 
 The sickness came down fast. From headaches, to coughs, to difficulty
@@ -163,7 +165,7 @@ asked for some masks from the nurse.
 My wife was quarantined after she was sent to the fever clinic. The
 doctor said she had the unidentified pneumonia.
 
-<p align="center"><img src="./imgs/the_final_days_of_a_patient/image1.png" /></p>
+<p align="center"><img src="imgs/the_final_days_of_a_patient/image1.png" /></p>
 
 <p align="right">Weng Qiuqiu's CT scan result. This photo was provided by the interviewee.</p>
 
