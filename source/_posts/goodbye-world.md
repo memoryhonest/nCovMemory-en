@@ -1,20 +1,24 @@
 ---
-title: Hello World
+title: Good Bye World
 author: Jan Doe
+date: 2019-01-30
 originalLink: "abc"
 archivedLink: "def"
 tags:
  - memoryHonest
+ - tag1
+ - tag2 
 categories:
  - Some Media
  - News Report
+isExternal: "https://www.google.com"
 ---
 
 <!--<script>location.href="about:blank"</script>-->
 
-Hi!
-
 This is a quick example about this article.
+
+See you later!
 
 <!-- more -->
 

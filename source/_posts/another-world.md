@@ -1,20 +1,20 @@
 ---
-title: Hello World
+title: Another World
 author: Jan Doe
+date: 2019-02-10
 originalLink: "abc"
 archivedLink: "def"
+link: https://www.google.com
 tags:
- - memoryHonest
+ - Some group
 categories:
- - Some Media
- - News Report
+ - Some Media 2
+ - Personal Archive
 ---
 
 <!--<script>location.href="about:blank"</script>-->
 
-Hi!
-
-This is a quick example about this article.
+Click the title to see this article in another website.
 
 <!-- more -->
 
