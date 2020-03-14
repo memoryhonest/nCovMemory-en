@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>2020 Memories of the COVID-19 outbreak in China</title>
+  
+  <subtitle>News Reports</subtitle>
+  <link href="/nCovMemory-en/atom.xml" rel="self"/>
+  
+  <link href="http://memoryhonest.github.io/nCovMemory-en/"/>
+  <updated>2020-03-14T03:20:17.649Z</updated>
+  <id>http://memoryhonest.github.io/nCovMemory-en/</id>
+  
+  <author>
+    <name>Memory Honest</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://memoryhonest.github.io/nCovMemory-en/2020/03/14/hello-world/"/>
+    <id>http://memoryhonest.github.io/nCovMemory-en/2020/03/14/hello-world/</id>
+    <published>2020-03-14T03:20:17.649Z</published>
+    <updated>2020-03-14T03:20:17.649Z</updated>
+    
+    <content type="html"><![CDATA[<!--<script>location.href="about:blank"</script>--><p>Hi!</p><p>This is a quick example about this article.</p><a id="more"></a><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;!--&lt;script&gt;location.href=&quot;about:blank&quot;&lt;/script&gt;--&gt;
+
+&lt;p&gt;Hi!&lt;/p&gt;
+&lt;p&gt;This is a quick example about this article.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Some Media" scheme="http://memoryhonest.github.io/nCovMemory-en/categories/Some-Media/"/>
+    
+      <category term="News Report" scheme="http://memoryhonest.github.io/nCovMemory-en/categories/Some-Media/News-Report/"/>
+    
+    
+      <category term="memoryHonest" scheme="http://memoryhonest.github.io/nCovMemory-en/tags/memoryHonest/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Another World</title>
+    <link href="http://memoryhonest.github.io/nCovMemory-en/2019/02/10/another-world/"/>
+    <id>http://memoryhonest.github.io/nCovMemory-en/2019/02/10/another-world/</id>
+    <published>2019-02-09T16:00:00.000Z</published>
+    <updated>2020-03-14T03:19:29.595Z</updated>
+    
+    <content type="html"><![CDATA[<!--<script>location.href="about:blank"</script>--><p>Click the title to see this article in another website.</p><a id="more"></a><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;!--&lt;script&gt;location.href=&quot;about:blank&quot;&lt;/script&gt;--&gt;
+
+&lt;p&gt;Click the title to see this article in another website.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Some Media 2" scheme="http://memoryhonest.github.io/nCovMemory-en/categories/Some-Media-2/"/>
+    
+      <category term="Personal Archive" scheme="http://memoryhonest.github.io/nCovMemory-en/categories/Some-Media-2/Personal-Archive/"/>
+    
+    
+      <category term="Some group" scheme="http://memoryhonest.github.io/nCovMemory-en/tags/Some-group/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Good Bye World</title>
+    <link href="http://memoryhonest.github.io/nCovMemory-en/2019/01/30/goodbye-world/"/>
+    <id>http://memoryhonest.github.io/nCovMemory-en/2019/01/30/goodbye-world/</id>
+    <published>2019-01-29T16:00:00.000Z</published>
+    <updated>2020-03-14T03:17:03.078Z</updated>
+    
+    <content type="html"><![CDATA[<!--<script>location.href="about:blank"</script>--><p>This is a quick example about this article.</p><p>See you later!</p><a id="more"></a><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;!--&lt;script&gt;location.href=&quot;about:blank&quot;&lt;/script&gt;--&gt;
+
+&lt;p&gt;This is a quick example about this article.&lt;/p&gt;
+&lt;p&gt;See you later!&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Some Media" scheme="http://memoryhonest.github.io/nCovMemory-en/categories/Some-Media/"/>
+    
+      <category term="News Report" scheme="http://memoryhonest.github.io/nCovMemory-en/categories/Some-Media/News-Report/"/>
+    
+    
+      <category term="memoryHonest" scheme="http://memoryhonest.github.io/nCovMemory-en/tags/memoryHonest/"/>
+    
+      <category term="tag1" scheme="http://memoryhonest.github.io/nCovMemory-en/tags/tag1/"/>
+    
+      <category term="tag2" scheme="http://memoryhonest.github.io/nCovMemory-en/tags/tag2/"/>
+    
+  </entry>
+  
+</feed>
