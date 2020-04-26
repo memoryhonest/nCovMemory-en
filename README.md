@@ -37,11 +37,11 @@ For terms and conditions, see the [LICENSE](/LICENSE.md) file.
 
 You can directly submit issues to this Github repository. If you want to preserve anonymity, you can also email us at memoryhonest@protonmail.com.
 
-您可以直接在本Github repository中创建Issue。若您对希望匿名，可向我们发送邮件：memoryhonest@protonmail.com。
+您可以直接在本Github repository中创建Issue。若您希望匿名，可向我们发送邮件：memoryhonest@protonmail.com。
 
 For copyright complaints, please email us at memoryhonest@protonmail.com with  “[Copyright Issues]” in the subject line. Out of concerns regarding confidentiality and efficiency, we recommend that you reach us via email in the aforementioned format, to ensure expedited processing.
 
-若您需要对版权问题提出投诉，我们推荐您向 memoryhonest@protonmail.com 发送邮件，并在标题中注明”[Copyright Issues]”，我们会尽快处理。出于保密性和效率的考量，我们不建议您采用除邮件外的其他方式。
+若您需要对版权问题提出投诉，我们推荐您向 memoryhonest@protonmail.com 发送邮件，并在标题中注明”[Copyright Issues]”，我们会尽快处理。出于对保密性和效率的考量，我们不建议您采用除邮件外的其他方式。
 
 Confidentiality notice: All emails addressed to us are strictly and automatically considered confidential, we will not disclose the content of correspondence to any other party.
 
